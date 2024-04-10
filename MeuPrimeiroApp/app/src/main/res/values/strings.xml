@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MeuPrimeiroApp</string>
+
+    <!--Chaves da tela de login-->
+    <string name="login_user_login">Usuário</string>
+    <string name="login_user_login_placeholder">Nome de usuário</string>
+
+    <string name="login_user_pw">Senha</string>
+    <string name="login_user_pw_placeholder">Digite sua senha</string>
+
+    <string name="login_buttom_login">Logar</string>
+    <string name="login_buttom_register">Cadastrar</string>
+    <string name="login_buttom_forgotPW">Esqueci a Senha</string>
+    <string name="login_user_forgotPW_message">Implementar funcionalidade</string>
+    <string name="login_user_name_empty">Nome de usuário não pode ser vazia</string>
+    <string name="login_user_pw_empty">Senha não pode ser vazia</string>
+    <string name="login_user_success">Login efetuado com sucesso</string>
+    <string name="login_user_incorret">Nome de usuário ou senha incorretos</string>
+
+
+    <!--Chaves da tela home-->
+    <string name="home_title">Home</string>
+
+
+
+</resources>
